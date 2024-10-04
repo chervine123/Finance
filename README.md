@@ -19,7 +19,7 @@ Ensure you have the following installed on your local development machine:
    Clone the repository to your local machine using the following command:
 
    ```sh
-   git clone https://github.com/JunHao247/Backtesting-Platform.git
+   git clone https://github.com/chervine123/finance.git
 
 2. **Navigate to the project directory**
    
