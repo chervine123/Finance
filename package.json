@@ -32,7 +32,7 @@
     "d3": "^7.9.0",
     "dataframe-js": "^1.4.4",
     "dotenv": "^16.4.5",
-    "express": "^4.19.2",
+    "express": "^4.21.0",
     "fork-ts-checker-webpack-plugin": "^9.0.2",
     "lightweight-charts": "^4.1.7",
     "moment": "^2.30.1",
