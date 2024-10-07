@@ -24,7 +24,7 @@ Ensure you have the following installed on your local development machine:
 2. **Navigate to the project directory**
    
    ```sh
-   cd Backtesting-Platform
+   cd finance
 
 3. **Install Dependencies**
    ```sh
@@ -38,6 +38,7 @@ Ensure you have the following installed on your local development machine:
    venv\Scripts\activate
    
    3. Install necessary dependencies
+   npm install
    pip install -r requirements.txt
 
 
@@ -53,7 +54,7 @@ Ensure you have the following installed on your local development machine:
     ```sh
     npm start
       ```
-   b. Alternatively, you may go to https://junhao247.github.io/Backtesting-Platform/ to utilise the production build application.
+   b. Alternatively, you may go to https://chervine123.github.io/finance/ to utilise the production build application.
 
 
 By following the above steps, the application should be running locally.
