@@ -1,6 +1,6 @@
 {
-  "homepage": "https://chervine123.github.io/Backtesting-Platform",
-  "name": "crypto-backtesting",
+  "homepage": "https://chervine123.github.io/finance",
+  "name": "finance",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -67,8 +67,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "engines": {
-    "node": "16.x"
   }
 }
