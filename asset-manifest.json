@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/finance/static/css/main.8d24196d.css",
+    "main.js": "/finance/static/js/main.e5ee1235.js",
+    "static/js/488.167626c6.chunk.js": "/finance/static/js/488.167626c6.chunk.js",
+    "index.html": "/finance/index.html",
+    "main.8d24196d.css.map": "/finance/static/css/main.8d24196d.css.map",
+    "main.e5ee1235.js.map": "/finance/static/js/main.e5ee1235.js.map",
+    "488.167626c6.chunk.js.map": "/finance/static/js/488.167626c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d24196d.css",
+    "static/js/main.e5ee1235.js"
+  ]
+}
